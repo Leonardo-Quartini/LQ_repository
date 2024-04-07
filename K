@@ -1,0 +1,1 @@
+A proof of the Completeness Theorem of modal logic K in HOL Light
